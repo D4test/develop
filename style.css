@@ -1,0 +1,93 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+.wrapper {
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.title {
+	font-size: 40px;
+	font-weight: 300;
+	padding: 0 0 10px 0;
+}
+
+.subtitle {
+	font-size: 20px;
+	opacity: 0.5;
+	padding: 0 0 10px 0;
+}
+
+.info {
+	display: flex;
+	justify-content: flex-start;
+}
+
+
+.temperature {
+	display: flex;
+	padding: 20px 10px;
+}
+
+.numb {
+	font-size: 30px;
+	opacity: 0.8;
+}
+
+.c {
+	font-size: 12px;
+	opacity: 0.5;
+	font-weight: 500;
+	/* margin: -5px 7px; */
+	padding: 3px;
+}
+
+.info-temp {
+	font-size: 20px;
+	margin-left: 45px;
+	opacity: 0.5;
+	font-weight: 300;
+}
+
+
+.section-two {
+	padding: 10px 0;
+}
+
+.week-line {
+	border-top:1px solid rgb(150, 150, 150);
+}
+
+.week {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 0 10px 0;
+}
+
+.day {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.temp-one {
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.temp-two {
+	font-size: 20px;
+	font-weight: 500;
+	opacity: 0.5;
+}
+
+.pollen {
+	font-size: 20px;
+	font-weight: 500;
+	opacity: 0.5;
+}
+
+
